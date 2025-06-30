@@ -1,5 +1,4 @@
 
-//<![CDATA[
 // Glassmorphic Species Comparison - Complete Version
 // Global comparison variables
 let comparisonMode = false;
@@ -883,5 +882,3 @@ if (document.readyState === 'loading') {
 } else {
   initializeComparison();
 }
-
-//]]>
