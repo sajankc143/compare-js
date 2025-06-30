@@ -1,4 +1,4 @@
-<script type='text/javascript'>
+
 //<![CDATA[
 // Glassmorphic Species Comparison - Complete Version
 
@@ -886,4 +886,3 @@ if (document.readyState === 'loading') {
 }
 
 //]]>
-</script>
