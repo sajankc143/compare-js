@@ -1,7 +1,6 @@
 
 //<![CDATA[
 // Glassmorphic Species Comparison - Complete Version
-
 // Global comparison variables
 let comparisonMode = false;
 let leftSpecies = null;
